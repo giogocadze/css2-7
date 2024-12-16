@@ -1,0 +1,133 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+#mainBackground {
+    padding: 96px;
+    background: #1B0E0F;
+    max-width: 1604px;
+    width: 100%;
+    margin: 0 auto;
+    margin-top: 226px;
+}
+
+#mainContainer {
+    max-width: 1412px;
+    width: 100%;
+    padding: 96px 0px;
+    background: #FFF;
+}
+
+#blog {
+    text-align: center;
+    color: #002AFE;
+    font-size: 16px;
+    font-weight: 600;
+}
+
+#resources {
+    color: #181D27;
+    font-size: 48px;
+    text-align: center;
+    font-style: normal;
+    font-weight: 600;
+    margin-top: 12px;
+}
+
+#industry {
+    color: #535862;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 400;
+    text-align: center;
+    margin-top: 24px;
+}
+
+.photo {
+    display: inline-block;
+    vertical-align: middle;
+    margin-left: 66px;
+    margin-top: 56px;
+    max-width: 600px;
+    width: 100%;
+}
+
+.designContainer {
+    display: inline-block;
+    margin-left: 60px;
+    max-width: 584px;
+    width: 100%;
+    vertical-align: middle;
+}
+
+.design {
+    color: #6941C6;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 600;
+}
+
+.collaboration {
+    display: inline-block;
+    vertical-align: middle;
+    color: #181D27;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 600;
+    margin-top: 8px;
+}
+
+.arrow {
+    vertical-align: middle;
+    display: inline-block;
+    margin-top: 8px;
+    margin-left: 12px;
+}
+
+.photoId {
+    vertical-align: middle;
+    display: inline-block;
+}
+
+.collaborationBenefits {
+    color: #535862;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    margin-top: 8px;
+}
+
+.natalieParagh {
+    vertical-align: middle;
+    color: #181D27;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 600;
+}
+
+.nataliePhoto {
+    vertical-align: middle;
+}
+
+.nataliCraig {
+    margin-top: 24px;
+}
+
+.january {
+    display: inline-block;
+    vertical-align: middle;
+    color: #535862;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 400;
+
+}
+
+.information {
+    margin-left: 8px;
+    display: inline-block;
+    vertical-align: middle;
+}
+
